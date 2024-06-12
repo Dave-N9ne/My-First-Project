@@ -1,0 +1,13 @@
+:root {
+    --font-family: "Work Sans", sans-serif;
+    --text-color: #5B6E76;
+    --dark-text-color: #142B35;
+    --light-color: #fff;
+    --light-blue-text-color: #3A98B2;
+    --blue-theme-color: #ABD2D9;
+    --yellow-color: #F2B91D;
+    --gray-text-color: #738697;
+    --light-gray-text-color: #E0E0E0;
+    --box-shadow: 1px 1px 12px 0 rgba(71, 71, 71, 0.03);
+    --second-box-shadow: 1px 1px 12px 0 rgba(71, 71, 71, 0.06);
+}

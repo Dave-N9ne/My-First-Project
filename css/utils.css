@@ -1,0 +1,43 @@
+/* ---------------FLEX-ALIGH--------------- */
+
+.flex-x {
+  display: flex;
+}
+.flex-y {
+  display: flex;
+  flex-direction: column;
+}
+.center-x {
+  display: flex;
+  justify-content: center;
+}
+.center-y{
+  font-display: flex;
+  align-items: center;
+}
+.center-full {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* ---------------/FLEX-ALIGH--------------- */
+
+/* ---------------GRID--------------- */
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+  gap: 16px;
+}
+.grid-elem {
+  background-color: wheat;
+}
+/* img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+} */
+
+/* ---------------/GRIDS--------------- */
+
